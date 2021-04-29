@@ -1,0 +1,10 @@
+D:\VB2005\TaomaQR\QR\QR\bin\Debug\QR.exe
+D:\VB2005\TaomaQR\QR\QR\bin\Debug\QR.pdb
+D:\VB2005\TaomaQR\QR\QR\bin\Debug\QR.xml
+D:\VB2005\TaomaQR\QR\QR\obj\Debug\QR.Form1.resources
+D:\VB2005\TaomaQR\QR\QR\obj\Debug\QR.Resources.resources
+D:\VB2005\TaomaQR\QR\QR\obj\Debug\QR.vbproj.GenerateResource.Cache
+D:\VB2005\TaomaQR\QR\QR\obj\Debug\QR.exe
+D:\VB2005\TaomaQR\QR\QR\obj\Debug\QR.xml
+D:\VB2005\TaomaQR\QR\QR\obj\Debug\QR.pdb
+D:\VB2005\TaomaQR\QR\QR\obj\Debug\QR.vbproj.CoreCompileInputs.cache
